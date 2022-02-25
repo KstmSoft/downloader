@@ -1,0 +1,17 @@
+body {
+  padding: 40px 5%;
+  background-color: #1B2224;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+}
+
+.content{
+    margin-top: 25px;
+}
+
+.input-group{
+    margin-bottom: 21px;
+}
